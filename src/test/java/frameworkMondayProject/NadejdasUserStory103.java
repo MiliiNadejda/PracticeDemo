@@ -15,7 +15,7 @@ import utilities.Driver;
 import javax.swing.plaf.TableHeaderUI;
 import java.util.List;
 
-public class userStory103 {
+public class NadejdasUserStory103 {
     SoftAssert soft;
     // go to the app
     @BeforeClass

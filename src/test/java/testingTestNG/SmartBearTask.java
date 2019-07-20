@@ -33,9 +33,7 @@ public class SmartBearTask {
         username.sendKeys("Tester");
         password.sendKeys("test");
         login.click();
-        for (int i = 0; i < 4; i++){
-            System.out.println("something");
-        }
+
 
     }
 

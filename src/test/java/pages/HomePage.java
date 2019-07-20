@@ -7,9 +7,9 @@ import org.openqa.selenium.support.PageFactory;
 import utilities.Driver;
 
 public class HomePage {
-    WebDriver driver;
+   // WebDriver driver;
     public HomePage(){
-        driver = Driver.getDriver();
+        //driver = Driver.getDriver();
         PageFactory.initElements(Driver.getDriver(), this);
 
     }
